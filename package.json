@@ -8,8 +8,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "?.git"
+    "url": "https://github.com/nikbabchenko/workflow"
   },
   "author": "Nik Babchenko",
-  "license": "ISC"
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-util": "^3.0.6"
+  }
 }
