@@ -79,7 +79,7 @@ $ = require('jQuery');
 
 (fill = function(item) {
   return $('.tagline').append("" + item);
-})('Who are you?');
+})('Something going on?');
 
 fill;
 
